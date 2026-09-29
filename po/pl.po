@@ -1086,8 +1086,8 @@ msgid "Cancel"
 msgstr "Anuluj"
 
 #: src/delete-files/delete-files.cc:262
-msgid "Delete Selected Files"
-msgstr "Usuń zaznaczone pliki"
+msgid "_Delete Selected Files"
+msgstr "_Usuń zaznaczone pliki"
 
 #: src/delete-files/delete-files.cc:282
 msgid "<b>Delete Method</b>"
