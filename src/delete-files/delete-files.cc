@@ -259,7 +259,7 @@ bool DeleteFiles::init ()
     aud_config_set_defaults ("delete_files", defaults);
 
     for (AudMenuID menu : menus)
-        aud_plugin_menu_add (menu, start_delete, _("Delete Selected Files"), "edit-delete");
+        aud_plugin_menu_add (menu, start_delete, _("_Delete Selected Files"), "edit-delete");
 
     return true;
 }
